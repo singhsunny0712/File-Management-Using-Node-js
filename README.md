@@ -10,7 +10,9 @@ Project is created with:
 * JavaScript
 
 ## Commands Used for This Project :-
-* node tpp.js view src -t
-* node tpp.js view src -f
-* node tpp.js untreefy "src path of folder " "dst to where json formate make"
-* node tpp.js treefy "source path of json" "dst where folder make"
+``` 
+ node tpp.js view src -t
+ node tpp.js view src -f
+ node tpp.js untreefy "src path of folder " "dst to where json formate make"
+ node tpp.js treefy "source path of json" "dst where folder make"
+```
