@@ -1,13 +1,13 @@
 # Node.js File Management
 
-## Discription :-
+## Discription :small_red_triangle_down: :-
  This is Node.js destructuring and Structure the folder management into source path to destination path through node.js in JSON like formate ,
  if we want to again in same structure then we provide the all command for this work.
  
- ## Technologies
+ ## Technologies :rocket: :-
 Project is created with:
-* Node.js
-* JavaScript
+* Node.js :heavy_check_mark:
+* JavaScript :heavy_check_mark:
 
 ## Commands Used for This Project :-
 ``` 
